@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\79284\source\repos\Internship (client)\Internship (client)\main.cpp(122,53): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79284\source\repos\Internship (client)\Internship (client)\main.cpp(147,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Internship (client).vcxproj -> C:\Users\79284\source\repos\Internship (client)\x64\Debug\Internship (client).exe
